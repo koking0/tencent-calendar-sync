@@ -51,8 +51,11 @@ def main():
                 return "skip"
             if res.status_code != 200:
                 return f"err:{res.status_code}"
+            # 腾讯服务端未声明 charset，实际内容是 UTF-8
+            # 强制用 UTF-8 解码，避免 requests 猜错编码
+            content = res.content.decode("utf-8", errors="replace")
             with open(out_path, "w", encoding="utf-8") as f:
-                f.write(res.text)
+                f.write(content)
             return "ok"
         except Exception as e:
             return f"err:{e}"
