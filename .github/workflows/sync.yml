@@ -1,0 +1,59 @@
+name: Tencent Meeting Sync
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # 每 30 分钟自动执行一次
+  workflow_dispatch:          # 允许手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 安装 vdirsyncer
+        run: pip install vdirsyncer
+
+      - name: 准备 vdirsyncer 配置
+        env:
+          CALDAV_USER: ${{ secrets.CALDAV_USER }}
+          CALDAV_PASS: ${{ secrets.CALDAV_PASS }}
+        run: |
+          mkdir -p ~/.vdirsyncer/status/tencent_calendar
+          mkdir -p ~/.vdirsyncer/calendars/tencent
+
+          # 从模板生成配置，替换环境变量
+          envsubst < vdirsyncer.config.template > ~/.vdirsyncer/config
+
+      - name: 执行同步
+        run: |
+          # discover 只在首次或集合变化时需要，用 yes 自动确认
+          yes | vdirsyncer discover tencent_calendar || true
+          vdirsyncer sync tencent_calendar || true
+
+      - name: 合并 ics 文件
+        run: |
+          shopt -s nullglob
+          files=(~/.vdirsyncer/calendars/tencent/*/*.ics)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No .ics files found, skipping merge."
+            # 保留上次的 all.ics，不覆盖
+            exit 0
+          fi
+          python3 merge.py "${files[@]}" > all.ics
+          echo "Merged ${#files[@]} files into all.ics"
+
+      - name: 提交更新到仓库
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add all.ics
+          git diff --cached --quiet && echo "No changes, skip commit." || \
+            (git commit -m "chore: sync meetings $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push)
