@@ -18,42 +18,39 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: 安装 vdirsyncer
-        run: pip install vdirsyncer
+      - name: 安装依赖
+        run: pip install requests
 
-      - name: 准备 vdirsyncer 配置
+      - name: 拉取腾讯会议日程
         env:
           CALDAV_USER: ${{ secrets.CALDAV_USER }}
           CALDAV_PASS: ${{ secrets.CALDAV_PASS }}
         run: |
-          mkdir -p ~/.vdirsyncer/status/tencent_calendar
-          mkdir -p ~/.vdirsyncer/calendars/tencent
-
-          # 从模板生成配置，替换环境变量
-          envsubst < vdirsyncer.config.template > ~/.vdirsyncer/config
-
-      - name: 执行同步
-        run: |
-          # discover 只在首次或集合变化时需要，用 yes 自动确认
-          yes | vdirsyncer discover tencent_calendar || true
-          vdirsyncer sync tencent_calendar || true
+          # 根据用户名构建 CalDAV collection URL
+          USER_PREFIX=$(echo "$CALDAV_USER" | cut -d'@' -f1)
+          export CALDAV_URL="https://cal.meeting.tencent.com/caldav/${USER_PREFIX}/calendar/32NRxvy8nRR3p/"
+          python3 sync_caldav.py
 
       - name: 合并 ics 文件
         run: |
           shopt -s nullglob
-          files=(~/.vdirsyncer/calendars/tencent/*/*.ics)
+          files=(~/.vdirsyncer/calendars/tencent/events/*.ics)
           if [ ${#files[@]} -eq 0 ]; then
-            echo "No .ics files found, skipping merge."
-            # 保留上次的 all.ics，不覆盖
+            echo "No .ics files found, keeping previous all.ics."
             exit 0
           fi
+          echo "Merging ${#files[@]} files..."
           python3 merge.py "${files[@]}" > all.ics
-          echo "Merged ${#files[@]} files into all.ics"
+          echo "all.ics size: $(wc -l < all.ics) lines"
 
       - name: 提交更新到仓库
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add all.ics
-          git diff --cached --quiet && echo "No changes, skip commit." || \
-            (git commit -m "chore: sync meetings $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push)
+          if git diff --cached --quiet; then
+            echo "No changes, skip commit."
+          else
+            git commit -m "chore: sync meetings $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
