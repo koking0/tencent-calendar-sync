@@ -4,6 +4,26 @@ PRODID:-//tencent-calendar-sync//merge.py//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:324NxgR02ZKz9
+SUMMARY:è®¨è®ºä¸ä¸äºæ´²é¡¹ç®çé¨ç½²
+CREATED:20251203T080939Z
+DTSTAMP:20251203T080939Z
+LAST-MODIFIED:20251203T080939Z
+DTSTART:20251206T110000Z
+DTEND:20251206T120000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è®¨è®ºä¸ä¸äºæ´²é¡¹ç®çé¨ç½²\nä¼è®®æ¶é´ï¼2025/12/06 19:00:00 - 2025/12/06 20:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/QTrAg4MTwW0z\n\n#è
+¾è®¯ä¼è®®ï¼143552982\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:324jOp64P0yrA
 SUMMARY:AI åçå»é¢-è·é²æ»è®¨è®ºä¸ä¸æºè½ä½
 CREATED:20251128T112609Z
@@ -451,6 +471,28 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:32oW2y477LzNO
+SUMMARY:è·æµ©ç¿è®¨è®ºä¸ä¸æ¸
+è è°åº¦æºè½ä½
+CREATED:20251223T022606Z
+DTSTAMP:20251223T022606Z
+LAST-MODIFIED:20251223T022606Z
+DTSTART:20251223T023000Z
+DTEND:20251223T033000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è·æµ©ç¿è®¨è®ºä¸ä¸æ¸
+è è°åº¦æºè½ä½\nä¼è®®æ¶é´ï¼2025/12/23 10:30:00 - 2025/12/23 11:30:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/V4ljsSuai0e3\n\n#è
+¾è®¯ä¼è®®ï¼265925099\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:32orQRL73DnAR
 SUMMARY:çä¸ä¸å¼å¼çé®é¢
 CREATED:20251219T041311Z
@@ -616,6 +658,25 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:3QRJwX048QRBn
+SUMMARY:æ¢çº¢è¹é¢å®çä¼è®®
+CREATED:20260107T045127Z
+DTSTAMP:20260107T045127Z
+LAST-MODIFIED:20260107T045127Z
+DTSTART:20260107T063000Z
+DTEND:20260107T083000Z
+LOCATION:
+DESCRIPTION:é»æ¯ä¸ éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼æ¢çº¢è¹é¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2026/01/07 14:30:00 - 2026/01/07 16:30:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/7ymNjNogHfJu\n\n#è
+¾è®¯ä¼è®®ï¼616382637\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:3QRRDW22PwWxR
 SUMMARY:è®¨è®ºä¸ä¸é¿æå
 çååå¾
@@ -651,6 +712,26 @@ DESCRIPTION:åå
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼å¯èºèºæ¯ä¸æè®¨è®º\nä¼è®®æ¶é´ï¼2026/04/03 15:30:00 - 2026/04/03 16:30:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/mxTysh1YO3UR\n\n#è
 ¾è®¯ä¼è®®ï¼643384141\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3QwMEGlkrjjz4
+SUMMARY:è·ä¸¥ sir è®¨è®ºä¸ä¸é£ä¸ªæ½è±¡çå¹³å°
+CREATED:20260320T010816Z
+DTSTAMP:20260320T010816Z
+LAST-MODIFIED:20260320T010816Z
+DTSTART:20260320T030000Z
+DTEND:20260320T040000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è·ä¸¥ sir è®¨è®ºä¸ä¸é£ä¸ªæ½è±¡çå¹³å°\nä¼è®®æ¶é´ï¼2026/03/20 11:00:00 - 2026/03/20 12:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/Nppb8r5OkCEe\n\n#è
+¾è®¯ä¼è®®ï¼748288547\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -764,6 +845,26 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:71O8pZDlDE3gw
+SUMMARY:è®¨è®ºåä¸ºçé¾é¢
+CREATED:20260429T042804Z
+DTSTAMP:20260429T042804Z
+LAST-MODIFIED:20260429T042804Z
+DTSTART:20260429T110000Z
+DTEND:20260429T120000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è®¨è®ºåä¸ºçé¾é¢\nä¼è®®æ¶é´ï¼2026/04/29 19:00:00 - 2026/04/29 20:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/R4GIYTYhlxks\n\n#è
+¾è®¯ä¼è®®ï¼130674860\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:71OzrPJjk1Jn1
 SUMMARY:è·é·èå¸è®¨è®ºä¸ä¸ AI for research çé¡¹ç®
 CREATED:20260503T052510Z
@@ -777,6 +878,28 @@ DESCRIPTION:åå
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è·é·èå¸è®¨è®ºä¸ä¸ AI for research çé¡¹ç®\nä¼è®®æ¶é´ï¼2026/05/06 14:30:00 - 2026/05/06 15:30:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/KPZu4n16cIyu\n\n#è
 ¾è®¯ä¼è®®ï¼275943309\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:71V1Bz5lNmpry
+SUMMARY:è·å
+è¥åå­¦è®¨è®ºä¸ä¸æºè½ç¼éå¼åéæ±
+CREATED:20260519T083859Z
+DTSTAMP:20260519T083859Z
+LAST-MODIFIED:20260519T083859Z
+DTSTART:20260519T120000Z
+DTEND:20260519T130000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è·å
+è¥åå­¦è®¨è®ºä¸ä¸æºè½ç¼éå¼åéæ±\nä¼è®®æ¶é´ï¼2026/05/19 20:00:00 - 2026/05/19 21:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/pUNoiJlG7oHi\n\n#è
+¾è®¯ä¼è®®ï¼355601144\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -878,6 +1001,26 @@ DESCRIPTION:åå
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼å¸åé¡¹ç®å¼åè®¨è®º\nä¼è®®æ¶é´ï¼2026/04/03 11:00:00 - 2026/04/03 12:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/avjiOYpY5yyc\n\n#è
 ¾è®¯ä¼è®®ï¼235343581\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:71yXMRRy9wyxA
+SUMMARY:è®¨è®ºä¸ä¸ panel survey äºæé¡¹ç®çæ¥ä»·åå¼ç¥¨
+CREATED:20260608T044050Z
+DTSTAMP:20260608T044050Z
+LAST-MODIFIED:20260608T044050Z
+DTSTART:20260608T060000Z
+DTEND:20260608T070000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è®¨è®ºä¸ä¸ panel survey äºæé¡¹ç®çæ¥ä»·åå¼ç¥¨\nä¼è®®æ¶é´ï¼2026/06/08 14:00:00 - 2026/06/08 15:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/Bs6ChkaKJxlE\n\n#è
+¾è®¯ä¼è®®ï¼208627121\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1241,6 +1384,25 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:7LR8BkLKkynjy
+SUMMARY:winké¢å®çä¼è®®
+CREATED:20250901T024252Z
+DTSTAMP:20250901T024252Z
+LAST-MODIFIED:20250901T024252Z
+DTSTART:20240528T013000Z
+DTEND:20240528T020000Z
+LOCATION:
+DESCRIPTION:wink éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼winké¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2024/05/28 09:30:00 - 2024/05/28 10:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/LwvQRgPZQRJn\n\n#è
+¾è®¯ä¼è®®ï¼664543999\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:7LR8BkV6P6MM1
 SUMMARY:å
 ¼èå°ç¨åºï¼éæ±è®¨è®º
@@ -1274,6 +1436,26 @@ DESCRIPTION:Alex éè¯·æ¨åå è
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼äºç¬è®°ç®¡çç³»ç»äº¤æ¥\nä¼è®®æ¶é´ï¼2024/03/19 19:00:00 - 2024/03/19 20:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/wh9LC9KbL341\n\n#è
 ¾è®¯ä¼è®®ï¼110389112\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7LR8BwkELl2RO
+SUMMARY:ä¸å­æºå¨äººäº§åéæ±æ²é
+CREATED:20250901T024246Z
+DTSTAMP:20250901T024246Z
+LAST-MODIFIED:20250901T024246Z
+DTSTART:20241210T120000Z
+DTEND:20241210T123000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼ä¸å­æºå¨äººäº§åéæ±æ²é\nä¼è®®æ¶é´ï¼2024/12/10 20:00:00 - 2024/12/10 20:30:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/iYGeKMSE2h7p\n\n#è
+¾è®¯ä¼è®®ï¼404836699\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1335,6 +1517,25 @@ DESCRIPTION:åå
 éå°ç§çåè½åéæ±\nä¼è®®æ¶é´ï¼2025/11/10 11:00:00 - 2025/11/10 12:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/7x0jxPNIs0Up\n\n#è
 ¾è®¯ä¼è®®ï¼667984887\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7LlBX3RWEg7EA
+SUMMARY:franké¢å®çä¼è®®
+CREATED:20251211T075637Z
+DTSTAMP:20251211T075637Z
+LAST-MODIFIED:20251211T075637Z
+DTSTART:20251211T080000Z
+DTEND:20251211T083000Z
+LOCATION:
+DESCRIPTION:frank éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼franké¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2025/12/11 16:00:00 - 2025/12/11 16:30:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/4MTkwWCIaOIJ\n\n#è
+¾è®¯ä¼è®®ï¼569835298\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1739,6 +1940,44 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:BLqoYy06NMPz2
+SUMMARY:éä½³é¢å®çä¼è®®
+CREATED:20250901T024258Z
+DTSTAMP:20250901T024258Z
+LAST-MODIFIED:20250901T024258Z
+DTSTART:20240225T020000Z
+DTEND:20240225T040000Z
+LOCATION:
+DESCRIPTION:éä½³ éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼éä½³é¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2024/02/25 10:00:00 - 2024/02/25 12:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/pHs2J9Tb3ESq\n\n#è
+¾è®¯ä¼è®®ï¼595306002\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:BLqoYy9g39qoX
+SUMMARY:éä½³é¢å®çä¼è®®
+CREATED:20250901T024254Z
+DTSTAMP:20250901T024254Z
+LAST-MODIFIED:20250901T024254Z
+DTSTART:20240313T073000Z
+DTEND:20240313T090000Z
+LOCATION:
+DESCRIPTION:éä½³ éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼éä½³é¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2024/03/13 15:30:00 - 2024/03/13 17:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/e21GwMN7elJH\n\n#è
+¾è®¯ä¼è®®ï¼862942529\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:BLqoYy9g3rLVn
 SUMMARY:å·ççèªæä¿®å
 »
@@ -1930,6 +2169,26 @@ DESCRIPTION:é»æ¯ä¸ éè¯·æ¨åå è
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼é»å¹¼æé¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2025/12/01 19:30:00 - 2025/12/01 21:30:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/yS69QhtRdIxh\n\n#è
 ¾è®¯ä¼è®®ï¼713374179\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:BN1YKrOB95Yyk
+SUMMARY:åæ³½å®¶åå­¦çé¢è¯èæ ¸
+CREATED:20260415T092005Z
+DTSTAMP:20260415T092005Z
+LAST-MODIFIED:20260416T170826Z
+DTSTART:20260420T060000Z
+DTEND:20260420T070000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼åæ³½å®¶åå­¦çé¢è¯èæ ¸\nä¼è®®æ¶é´ï¼2026/04/20 14:00:00 - 2026/04/20 15:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/d6g99NbW4BST\n\n#è
+¾è®¯ä¼è®®ï¼629281996\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -2215,6 +2474,67 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:BNn5mvgAw7nNX
+SUMMARY:ä¼è®®é¢å®çä¼è®®
+CREATED:20260329T010911Z
+DTSTAMP:20260329T010911Z
+LAST-MODIFIED:20260329T010911Z
+DTSTART:20260329T015500Z
+DTEND:20260329T032500Z
+LOCATION:
+DESCRIPTION:ä¼è®® éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼ä¼è®®é¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2026/03/29 09:55:00 - 2026/03/29 11:25:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/pybPWZ1PCjj8\n\n#è
+¾è®¯ä¼è®®ï¼205505263\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:BNn6m1vr02kB2
+SUMMARY:æ·æ¥-æ¯å¨è®¨è®ºå¼åè¿å±
+CREATED:20260323T085353Z
+DTSTAMP:20260323T085353Z
+LAST-MODIFIED:20260323T085353Z
+DTSTART:20260324T100000Z
+DTEND:20260324T110000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼æ·æ¥-æ¯å¨è®¨è®ºå¼åè¿å±\nä¼è®®æ¶é´ï¼2026/03/24 18:00:00 - 2026/03/24 19:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/qTl8INHqjUbk\n\n#è
+¾è®¯ä¼è®®ï¼99117525546\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:BNr17gLVKK3Jo
+SUMMARY:è®¨è®ºä¸ä¸é¿æå
+å¨çº¿æ°å­¦å®éªå®¤çè¿å±
+CREATED:20260223T042716Z
+DTSTAMP:20260223T042716Z
+LAST-MODIFIED:20260223T042716Z
+DTSTART:20260223T110000Z
+DTEND:20260223T120000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è®¨è®ºä¸ä¸é¿æå
+å¨çº¿æ°å­¦å®éªå®¤çè¿å±\nä¼è®®æ¶é´ï¼2026/02/23 19:00:00 - 2026/02/23 20:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/nT1dvqaNDTwY\n\n#è
+¾è®¯ä¼è®®ï¼974872174\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:Jq3r3QAGPy67l
 SUMMARY:æ´é¼»å¨ç½ç«ä¼åéæ±æ²é
 CREATED:20251014T092904Z
@@ -2305,6 +2625,25 @@ DESCRIPTION:å®æºé éè¯·æ¨åå è
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼å®æºéé¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2024/12/01 14:00:00 - 2024/12/01 15:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/5lzIC173TlJh\n\n#è
 ¾è®¯ä¼è®®ï¼747669427\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:JqBD92nwPA06y
+SUMMARY:Jé¢å®çä¼è®®
+CREATED:20250901T024247Z
+DTSTAMP:20250901T024247Z
+LAST-MODIFIED:20250901T024247Z
+DTSTART:20240719T100000Z
+DTEND:20240719T120000Z
+LOCATION:
+DESCRIPTION:J éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼Jé¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2024/07/19 18:00:00 - 2024/07/19 20:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/KBuw80aJpN0b\n\n#è
+¾è®¯ä¼è®®ï¼641271068\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -2806,6 +3145,26 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:JyW9NJM3KZYBg
+SUMMARY:è®¨è®ºä¸ä¸è§é¢çæ
+CREATED:20260523T152146Z
+DTSTAMP:20260523T152146Z
+LAST-MODIFIED:20260523T152146Z
+DTSTART:20260524T070000Z
+DTEND:20260524T080000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è®¨è®ºä¸ä¸è§é¢çæ\nä¼è®®æ¶é´ï¼2026/05/24 15:00:00 - 2026/05/24 16:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/r3W4D2k8cEJR\n\n#è
+¾è®¯ä¼è®®ï¼995126356\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:JyWrgEq5WmOOg
 SUMMARY:è¢é¹åå­¦çé¢è¯èæ ¸
 CREATED:20260523T072513Z
@@ -3138,6 +3497,26 @@ DESCRIPTION:åå
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼å¨èè¶ é¢è¯\nä¼è®®æ¶é´ï¼2025/08/18 16:00:00 - 2025/08/18 16:30:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/Nr9LoIVKH0TP\n\n#è
 ¾è®¯ä¼è®®ï¼853665113\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:N9JD6nEMzArE2
+SUMMARY:æä¸é¾çé¢è¯éè¯·
+CREATED:20250901T024234Z
+DTSTAMP:20250901T024234Z
+LAST-MODIFIED:20250901T024234Z
+DTSTART:20250805T070000Z
+DTEND:20250805T073000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼æä¸é¾çé¢è¯éè¯·\nä¼è®®æ¶é´ï¼2025/08/05 15:00:00 - 2025/08/05 15:30:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/J7nKieC0EEsR\n\n#è
+¾è®¯ä¼è®®ï¼573750808\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -3877,6 +4256,28 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:RO680r3p5BmXE
+SUMMARY:å¤çä¸ä¸æºè½ä½å»é¢çé¡¹ç®ä»¥åè®¡ç®ä¸ä¸å
+¬å¼
+CREATED:20260115T182407Z
+DTSTAMP:20260115T182407Z
+LAST-MODIFIED:20260115T182407Z
+DTSTART:20260116T030000Z
+DTEND:20260116T040000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼å¤çä¸ä¸æºè½ä½å»é¢çé¡¹ç®ä»¥åè®¡ç®ä¸ä¸å
+¬å¼\nä¼è®®æ¶é´ï¼2026/01/16 11:00:00 - 2026/01/16 12:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/9Xjow01uukLr\n\n#è
+¾è®¯ä¼è®®ï¼541300307\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:RO8v7lOMyn1pL
 SUMMARY:è®¨è®ºä¸ä¸æä½³æ¸
 çè®ºæ
@@ -3991,6 +4392,26 @@ DESCRIPTION:åå
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼ä»ç»ä¸ä¸å©´å¹¼å¿çººç»åAIçå¾å¹³å°çéæ±\nä¼è®®æ¶é´ï¼2026/04/01 18:00:00 - 2026/04/01 19:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/YDOEt1aAf62l\n\n#è
 ¾è®¯ä¼è®®ï¼368543843\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ROMm75OpympLY
+SUMMARY:è·ææ´è®¨è®ºä¸ä¸è¯å¾çé¡¹ç®
+CREATED:20260406T080052Z
+DTSTAMP:20260406T080052Z
+LAST-MODIFIED:20260406T080052Z
+DTSTART:20260407T070000Z
+DTEND:20260407T080000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è·ææ´è®¨è®ºä¸ä¸è¯å¾çé¡¹ç®\nä¼è®®æ¶é´ï¼2026/04/07 15:00:00 - 2026/04/07 16:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/GV04YyLx7YHs\n\n#è
+¾è®¯ä¼è®®ï¼46173609862\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -4217,6 +4638,46 @@ DESCRIPTION:åæ¬å  éè¯·æ¨åå è
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼åæ¬å é¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2025/01/12 14:00:00 - 2025/01/12 16:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/Yf7nOvMVp5mp\n\n#è
 ¾è®¯ä¼è®®ï¼654458059\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:RoNYV7G1O4kEY
+SUMMARY:æºå¨å­¦ä¹ å®éªæ±æ¥
+CREATED:20250901T024258Z
+DTSTAMP:20250901T024258Z
+LAST-MODIFIED:20250901T024258Z
+DTSTART:20231108T103000Z
+DTEND:20231108T113000Z
+LOCATION:
+DESCRIPTION:é©¬æ°¸å éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼æºå¨å­¦ä¹ å®éªæ±æ¥\nä¼è®®æ¶é´ï¼2023/11/08 18:30:00 - 2023/11/08 19:30:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/hpEHx9vO8jW2\n\n#è
+¾è®¯ä¼è®®ï¼302459379\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:RoNYV7oG7N2pL
+SUMMARY:åå
+å³°çè§é¢é¢è¯
+CREATED:20250901T024252Z
+DTSTAMP:20250901T024252Z
+LAST-MODIFIED:20250901T024252Z
+DTSTART:20240430T030000Z
+DTEND:20240430T040000Z
+LOCATION:
+DESCRIPTION:é¢è¯å® éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼åå
+å³°çè§é¢é¢è¯\nä¼è®®æ¶é´ï¼2024/04/30 11:00:00 - 2024/04/30 12:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/4aR7I3J7txpq\n\n#è
+¾è®¯ä¼è®®ï¼473823359\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -4596,6 +5057,28 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:YW6ErPYLRjnKp
+SUMMARY:é¿æå
+-å¨çº¿æ°å­¦å®éªå®¤-æ¯å¨å¯¹ä¸ä¸è¿å±
+CREATED:20260123T085924Z
+DTSTAMP:20260123T085924Z
+LAST-MODIFIED:20260123T085924Z
+DTSTART:20260123T090000Z
+DTEND:20260123T100000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼é¿æå
+-å¨çº¿æ°å­¦å®éªå®¤-æ¯å¨å¯¹ä¸ä¸è¿å±\nä¼è®®æ¶é´ï¼2026/01/23 17:00:00 - 2026/01/23 18:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/THeGmwRaVcjg\n\n#è
+¾è®¯ä¼è®®ï¼306544846\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:YW7ZpPKR8WWL9
 SUMMARY:è·æææ´è®¨è®ºä¸ä¸è¯å¾çè®ºæ
 CREATED:20260224T145644Z
@@ -4631,6 +5114,26 @@ DESCRIPTION:åå
 «éµé¡¹ç®çäº§åè®¾è®¡\nä¼è®®æ¶é´ï¼2026/02/26 14:00:00 - 2026/02/26 15:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/H0Gqp47ii0S2\n\n#è
 ¾è®¯ä¼è®®ï¼293868626\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:YWEWP0K2lNlEO
+SUMMARY:è®¨è®ºä¸ä¸RAGé®ç­å©æ
+CREATED:20260114T120055Z
+DTSTAMP:20260114T120055Z
+LAST-MODIFIED:20260114T120055Z
+DTSTART:20260114T130000Z
+DTEND:20260114T140000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è®¨è®ºä¸ä¸RAGé®ç­å©æ\nä¼è®®æ¶é´ï¼2026/01/14 21:00:00 - 2026/01/14 22:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/eqfwUz1zLuBG\n\n#è
+¾è®¯ä¼è®®ï¼854381767\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -4813,6 +5316,26 @@ DESCRIPTION:åå
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼æ¯ä¸ç­è¾©\nä¼è®®æ¶é´ï¼2026/05/28 09:00:00 - 2026/05/28 12:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/kcp8sMkK7os6\n\n#è
 ¾è®¯ä¼è®®ï¼860667598\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:YWqWNA0Vz9XpY
+SUMMARY:è®¨è®ºä¸ä¸åè¥¿ panel survey çéæ±
+CREATED:20260519T082614Z
+DTSTAMP:20260519T082614Z
+LAST-MODIFIED:20260519T082632Z
+DTSTART:20260520T070000Z
+DTEND:20260520T080000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è®¨è®ºä¸ä¸åè¥¿ panel survey çéæ±\nä¼è®®æ¶é´ï¼2026/05/20 15:00:00 - 2026/05/20 16:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/bukhZK8tygcf\n\n#è
+¾è®¯ä¼è®®ï¼269849378\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -5061,6 +5584,26 @@ DESCRIPTION:åå
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼ç»éæ»åç´«èè¯·å®ï¼ç¶åä»ç»ä¸ä¸ PanelSurvey é¡¹ç®\nä¼è®®æ¶é´ï¼2025/12/10 17:30:00 - 2025/12/10 18:30:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/o6jte2QZpR4r\n\n#è
 ¾è®¯ä¼è®®ï¼707229705\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Yv8p9BQ1O8jGO
+SUMMARY:é«ä¿ç¿çé¢è¯éè¯·
+CREATED:20250901T024234Z
+DTSTAMP:20250901T024234Z
+LAST-MODIFIED:20250901T024234Z
+DTSTART:20250801T023000Z
+DTEND:20250801T033000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼é«ä¿ç¿çé¢è¯éè¯·\nä¼è®®æ¶é´ï¼2025/08/01 10:30:00 - 2025/08/01 11:30:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/YN5wQ6dx4vV6\n\n#è
+¾è®¯ä¼è®®ï¼847380188\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -5857,6 +6400,25 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gLv7DgWo5mMwZ
+SUMMARY:AIå»é¢ææ¯æ²é
+CREATED:20251208T074436Z
+DTSTAMP:20251208T074436Z
+LAST-MODIFIED:20251208T074436Z
+DTSTART:20251208T080000Z
+DTEND:20251208T100000Z
+LOCATION:
+DESCRIPTION:åå½¢æ¶ éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼AIå»é¢ææ¯æ²é\nä¼è®®æ¶é´ï¼2025/12/08 16:00:00 - 2025/12/08 18:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/QqWtyJz4qZdm\n\n#è
+¾è®¯ä¼è®®ï¼560384125\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:gLvKO339qN5rY
 SUMMARY:è·æ ¸å¨åé¢é£è¾¹æ²éäº¤æµ
 CREATED:20251210T025812Z
@@ -5929,6 +6491,26 @@ DESCRIPTION:åå
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è·å·å¥è®¨è®ºä¸ä¸ç¥è¯äº§æé¡¹ç®çéæ±\nä¼è®®æ¶é´ï¼2026/03/16 14:00:00 - 2026/03/16 15:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/a0lkSKPVMDrz\n\n#è
 ¾è®¯ä¼è®®ï¼985464009\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gZ57ZVMxgJrDY
+SUMMARY:è®¨è®ºä¸ä¸å®¶æå°ç¨åºçéæ±
+CREATED:20260125T070300Z
+DTSTAMP:20260125T070300Z
+LAST-MODIFIED:20260125T070300Z
+DTSTART:20260125T073000Z
+DTEND:20260125T080000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è®¨è®ºä¸ä¸å®¶æå°ç¨åºçéæ±\nä¼è®®æ¶é´ï¼2026/01/25 15:30:00 - 2026/01/25 16:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/xMTmVjemjRmW\n\n#è
+¾è®¯ä¼è®®ï¼529933577\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -6267,6 +6849,26 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gZkB0lMmj4EB9
+SUMMARY:åæ³½å®¶åå­¦çèæ ¸ä»»å¡
+CREATED:20260331T011901Z
+DTSTAMP:20260331T011901Z
+LAST-MODIFIED:20260331T011901Z
+DTSTART:20260331T020000Z
+DTEND:20260331T030000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼åæ³½å®¶åå­¦çèæ ¸ä»»å¡\nä¼è®®æ¶é´ï¼2026/03/31 10:00:00 - 2026/03/31 11:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/cbdY1I4HSPEd\n\n#è
+¾è®¯ä¼è®®ï¼519171672\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:gZnAkWEwvODOj
 SUMMARY:è²æ¢
 è³é¢å®çä¼è®®
@@ -6497,6 +7099,26 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:mO7MJKynJLJwE
+SUMMARY:å®å Mix Flip å¼åå®å½åäº«
+CREATED:20260412T122119Z
+DTSTAMP:20260412T122119Z
+LAST-MODIFIED:20260417T001900Z
+DTSTART:20260424T080000Z
+DTEND:20260424T090000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼å®å Mix Flip å¼åå®å½åäº«\nä¼è®®æ¶é´ï¼2026/04/24 16:00:00 - 2026/04/24 17:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/WrhxMNkEETx0\n\n#è
+¾è®¯ä¼è®®ï¼541605717\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:mO7R88W2pnmxA
 SUMMARY:è·é·èå¸è®¨è®ºä¸ä¸ PPT
 CREATED:20260410T000847Z
@@ -6642,6 +7264,26 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:mOM0xRvXlW1Wn
+SUMMARY:LLM for Engineering
+CREATED:20260423T043146Z
+DTSTAMP:20260423T043146Z
+LAST-MODIFIED:20260423T043146Z
+DTSTART:20260424T030000Z
+DTEND:20260424T040000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼LLM for Engineering\nä¼è®®æ¶é´ï¼2026/04/24 11:00:00 - 2026/04/24 12:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/hYUGDIcoCvUg\n\n#è
+¾è®¯ä¼è®®ï¼96961328648\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:mOM3gLmZ4MmBO
 SUMMARY:è®¨è®ºåä¸ºçé¾é¢
 CREATED:20260426T153141Z
@@ -6718,6 +7360,26 @@ DESCRIPTION:åå
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è®¨è®ºä¸ä¸ LLM for è½¯ä»¶å·¥ç¨\nä¼è®®æ¶é´ï¼2026/04/20 16:00:00 - 2026/04/20 17:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/jWFtyd6R1Qlp\n\n#è
 ¾è®¯ä¼è®®ï¼771140153\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mOMyjJ8jmY5YE
+SUMMARY:secknow èå¾é¢å®çä¼è®®
+CREATED:20260421T043739Z
+DTSTAMP:20260421T043739Z
+LAST-MODIFIED:20260421T043739Z
+DTSTART:20260421T120000Z
+DTEND:20260421T130000Z
+LOCATION:
+DESCRIPTION:é¿æå
+ èå¾ éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼secknow èå¾é¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2026/04/21 20:00:00 - 2026/04/21 21:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/x0gZIFDmFKhL\n\n#è
+¾è®¯ä¼è®®ï¼905945426\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -6804,6 +7466,26 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:mONQpBBGOvPlG
+SUMMARY:è®¨è®ºæ³¡èå¤§ä½æçéæ±
+CREATED:20260519T035656Z
+DTSTAMP:20260519T035656Z
+LAST-MODIFIED:20260519T082533Z
+DTSTART:20260520T060000Z
+DTEND:20260520T070000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è®¨è®ºæ³¡èå¤§ä½æçéæ±\nä¼è®®æ¶é´ï¼2026/05/20 14:00:00 - 2026/05/20 15:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/tvtyxqix2tqc\n\n#è
+¾è®¯ä¼è®®ï¼118813367\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:mORoo2xLDAX4n
 SUMMARY:è·å¤§æ¨å¥è®¨è®ºä¸ä¸è¯¾é¢åå
 CREATED:20260111T055306Z
@@ -6817,6 +7499,28 @@ DESCRIPTION:åå
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è·å¤§æ¨å¥è®¨è®ºä¸ä¸è¯¾é¢åå\nä¼è®®æ¶é´ï¼2026/01/11 14:00:00 - 2026/01/11 15:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/FOQIDATWUz0p\n\n#è
 ¾è®¯ä¼è®®ï¼393155163\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mORyroKKQ4G4O
+SUMMARY:åè¿ä¸ä¸é¿æå
+å¨çº¿æ°å­¦å®éªå®¤çä»»å¡
+CREATED:20260105T140415Z
+DTSTAMP:20260105T140415Z
+LAST-MODIFIED:20260105T140415Z
+DTSTART:20260106T070000Z
+DTEND:20260106T080000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼åè¿ä¸ä¸é¿æå
+å¨çº¿æ°å­¦å®éªå®¤çä»»å¡\nä¼è®®æ¶é´ï¼2026/01/06 15:00:00 - 2026/01/06 16:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/anTP09j0zKdn\n\n#è
+¾è®¯ä¼è®®ï¼824511715\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -6884,6 +7588,28 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:mOXpLG2pWMpwA
+SUMMARY:æµ·çé¡¹ç®æ¯å¨è®¨è®º
+CREATED:20260603T070515Z
+DTSTAMP:20260603T070515Z
+LAST-MODIFIED:20260610T102609Z
+DTSTART;TZID=Asia/Shanghai:20260603T170000
+DTEND;TZID=Asia/Shanghai:20260603T180000
+RRULE:FREQ=WEEKLY;INTERVAL=1;COUNT=199;BYDAY=WE
+EXDATE:20260610T090000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼æµ·çé¡¹ç®æ¯å¨è®¨è®º\nä¼è®®æ¶é´ï¼17:00:00 - 18:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/zseKMkcu9xVp\n\n#è
+¾è®¯ä¼è®®ï¼43248197108\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:mOYEMNM9XDkYA
 SUMMARY:é¿æå
 -å¨çº¿æ°å­¦å®éªå®¤-ç¬¬ä¸è½®æµè¯è®¨è®º
@@ -6941,6 +7667,28 @@ DESCRIPTION:åå
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼å¨æ¸¸åå­¦çèæ ¸éè¯·\nä¼è®®æ¶é´ï¼2026/02/04 11:00:00 - 2026/02/04 12:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/gmhmY0HhEzoM\n\n#è
 ¾è®¯ä¼è®®ï¼398858425\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mOqW729M6p0A3
+SUMMARY:æ¶
+æ§é¡¹ç®æ¯å¨äºè®¨è®º
+CREATED:20260226T100004Z
+DTSTAMP:20260226T100004Z
+LAST-MODIFIED:20260226T100004Z
+DTSTART:20260227T090000Z
+DTEND:20260227T100000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼æ¶
+æ§é¡¹ç®æ¯å¨äºè®¨è®º\nä¼è®®æ¶é´ï¼2026/02/27 17:00:00 - 2026/02/27 18:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/1ZiYiuJv7NMp\n\n#è
+¾è®¯ä¼è®®ï¼739537995\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -7207,6 +7955,25 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:mQ5R9VKo7EGyG
+SUMMARY:é¥¶å©å¤©é¢å®çä¼è®®
+CREATED:20250901T024240Z
+DTSTAMP:20250901T024240Z
+LAST-MODIFIED:20250901T024240Z
+DTSTART:20250216T070000Z
+DTEND:20250216T074000Z
+LOCATION:
+DESCRIPTION:é¥¶å©å¤© éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼é¥¶å©å¤©é¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2025/02/16 15:00:00 - 2025/02/16 15:40:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/jn4TcUIcXBGC\n\n#è
+¾è®¯ä¼è®®ï¼362405406\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:mQ5R9VKo7MXWO
 SUMMARY:å¤§è¶
 å¸é¡¹ç®è¯´æ
@@ -7387,6 +8154,25 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:mQ5R9gqxWK5pR
+SUMMARY:tanisé¢å®çä¼è®®
+CREATED:20250901T024302Z
+DTSTAMP:20250901T024302Z
+LAST-MODIFIED:20250901T024302Z
+DTSTART:20231012T090000Z
+DTEND:20231012T093000Z
+LOCATION:
+DESCRIPTION:tanis éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼tanisé¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2023/10/12 17:00:00 - 2023/10/12 17:30:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/iOU0qL8CFofI\n\n#è
+¾è®¯ä¼è®®ï¼931807053\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:mQ5R9gqxzZ1Vp
 SUMMARY:å®¡è®¡å¤§æ¨¡å
 CREATED:20250901T024302Z
@@ -7399,6 +8185,25 @@ DESCRIPTION:å¤§åå éè¯·æ¨åå è
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼å®¡è®¡å¤§æ¨¡å\nä¼è®®æ¶é´ï¼2023/09/04 19:30:00 - 2023/09/04 20:30:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/mSKEKY9R8QB2\n\n#è
 ¾è®¯ä¼è®®ï¼942459715\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mQ5R9gqxzqNJE
+SUMMARY:éè®¿
+CREATED:20250901T024302Z
+DTSTAMP:20250901T024302Z
+LAST-MODIFIED:20250901T024302Z
+DTSTART:20230603T070000Z
+DTEND:20230603T071500Z
+LOCATION:
+DESCRIPTION:Phoenix_Enforcer éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼éè®¿\nä¼è®®æ¶é´ï¼2023/06/03 15:00:00 - 2023/06/03 15:15:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/KD7ojTTnEQuY\n\n#è
+¾è®¯ä¼è®®ï¼106726457\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -7741,6 +8546,28 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:mQrjkopG6Y3lp
+SUMMARY:åå
+å³°é¢å®çä¼è®®
+CREATED:20251024T031224Z
+DTSTAMP:20251024T031224Z
+LAST-MODIFIED:20251024T031224Z
+DTSTART:20251024T033000Z
+DTEND:20251024T043000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼åå
+å³°é¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2025/10/24 11:30:00 - 2025/10/24 12:30:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/4cBpfFcNCZtN\n\n#è
+¾è®¯ä¼è®®ï¼882748924\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:mQrjz1jklnv00
 SUMMARY:è·éå°åè®¨è®ºä¸ä¸ç»å½
 CREATED:20251024T041730Z
@@ -7833,6 +8660,25 @@ DESCRIPTION:åå
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è®¨è®ºä¸ä¸çæºå¤§æ¨¡å\nä¼è®®æ¶é´ï¼2026/05/18 20:00:00 - 2026/05/18 21:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/Fe7cVHtnfBsU\n\n#è
 ¾è®¯ä¼è®®ï¼881118822\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:q76z2KQv1Pkor
+SUMMARY:Twiinké¢å®çä¼è®®
+CREATED:20260516T104031Z
+DTSTAMP:20260516T104031Z
+LAST-MODIFIED:20260516T104031Z
+DTSTART:20260519T090000Z
+DTEND:20260519T100000Z
+LOCATION:
+DESCRIPTION:Twiink éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼Twiinké¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2026/05/19 17:00:00 - 2026/05/19 18:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/kp63HG20HFDt\n\n#è
+¾è®¯ä¼è®®ï¼144129590\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -8019,6 +8865,28 @@ DESCRIPTION:å¤å¤ éè¯·æ¨åå è
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼æ¨ççé¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2026/02/26 17:00:00 - 2026/02/26 18:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/grYQeo12ze0M\n\n#è
 ¾è®¯ä¼è®®ï¼435137463\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:q7YNYZyMg8Az0
+SUMMARY:è®¨è®ºä¸ä¸è¯å
+¸å¹³å°çäº§åè®¾è®¡
+CREATED:20260209T031243Z
+DTSTAMP:20260209T031243Z
+LAST-MODIFIED:20260209T031243Z
+DTSTART:20260209T033000Z
+DTEND:20260209T043000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è®¨è®ºä¸ä¸è¯å
+¸å¹³å°çäº§åè®¾è®¡\nä¼è®®æ¶é´ï¼2026/02/09 11:30:00 - 2026/02/09 12:30:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/VD2Bde3Jdvta\n\n#è
+¾è®¯ä¼è®®ï¼738916877\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -8376,6 +9244,25 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:qY1Rk9Ljz8rKy
+SUMMARY:éä½³é¢å®çä¼è®®
+CREATED:20250901T024254Z
+DTSTAMP:20250901T024254Z
+LAST-MODIFIED:20250901T024254Z
+DTSTART:20240312T013000Z
+DTEND:20240312T023000Z
+LOCATION:
+DESCRIPTION:éä½³ éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼éä½³é¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2024/03/12 09:30:00 - 2024/03/12 10:30:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/wDGpKYKncijL\n\n#è
+¾è®¯ä¼è®®ï¼776367048\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:qY1RkX0NRL4lG
 SUMMARY:åå
 å³°é¢å®çä¼è®®
@@ -8726,6 +9613,25 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:qY1lvPv4NrKD3
+SUMMARY:é¥¶å©å¤©é¢å®çä¼è®®
+CREATED:20250902T111703Z
+DTSTAMP:20250902T111703Z
+LAST-MODIFIED:20250902T111703Z
+DTSTART:20250902T112000Z
+DTEND:20250902T115000Z
+LOCATION:
+DESCRIPTION:é¥¶å©å¤© éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼é¥¶å©å¤©é¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2025/09/02 19:20:00 - 2025/09/02 19:50:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/l2wCpBW2Quvl\n\n#è
+¾è®¯ä¼è®®ï¼383623475\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:qY1xKxQEPrJ2p
 SUMMARY:å
 éå°ç§è®¨è®ºä¸ä¸è¿å±
@@ -8891,6 +9797,47 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:qYOMkB9PExj97
+SUMMARY:æé£ä¸ºå¥æ»æ¶æ³¡é¢å®çä¼è®®
+CREATED:20251119T084904Z
+DTSTAMP:20251119T084904Z
+LAST-MODIFIED:20251119T084904Z
+DTSTART:20251119T084500Z
+DTEND:20251119T091500Z
+LOCATION:
+DESCRIPTION:æé£ä¸ºå¥æ»æ¶æ³¡ éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼æé£ä¸ºå¥æ»æ¶æ³¡é¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2025/11/19 16:45:00 - 2025/11/19 17:15:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/CEYdtULHiDAA\n\n#è
+¾è®¯ä¼è®®ï¼932624932\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qYOYvA6Z9ylJr
+SUMMARY:è¿ä¸ä¸AIåçå»é¢çè¿åº¦
+CREATED:20251117T155457Z
+DTSTAMP:20251117T155457Z
+LAST-MODIFIED:20260113T062254Z
+DTSTART;TZID=Asia/Shanghai:20251118T140000
+DTEND;TZID=Asia/Shanghai:20251118T150000
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20260131T155959Z;BYDAY=TU
+EXDATE:20251125T060000Z,20251209T060000Z,20251216T060000Z,20260106T060000Z,20260113T060000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è¿ä¸ä¸AIåçå»é¢çè¿åº¦\nä¼è®®æ¶é´ï¼14:00:00 - 15:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/dRMSq3LhhgLg\n\n#è
+¾è®¯ä¼è®®ï¼99178825158\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:qYPGRkR0Y7A1D
 SUMMARY:è·èªä¸¾åè®¨è®ºä¸ä¸
 CREATED:20251224T093348Z
@@ -8924,6 +9871,26 @@ DESCRIPTION:åå
 ¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è·å¨å­ååå­¦è®¨è®ºä¸ä¸ AutoSRS\nä¼è®®æ¶é´ï¼2025/12/24 15:00:00 - 2025/12/24 16:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/d3Fr9739vee3\n\n#è
 ¾è®¯ä¼è®®ï¼100156644\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qYPoLxQp6Mn73
+SUMMARY:å¯¹ä¸ä¸æ¥åçæçæ¥å£
+CREATED:20251219T103905Z
+DTSTAMP:20251219T103905Z
+LAST-MODIFIED:20251219T103905Z
+DTSTART:20251219T130000Z
+DTEND:20251219T140000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼å¯¹ä¸ä¸æ¥åçæçæ¥å£\nä¼è®®æ¶é´ï¼2025/12/19 21:00:00 - 2025/12/19 22:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/y2n1kq5UABV7\n\n#è
+¾è®¯ä¼è®®ï¼546165123\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -9395,6 +10362,26 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:xvKENLpXw26pP
+SUMMARY:è·ç¿ç¾½æ²éä¸ä¸æ­å»ºæ¸ é
+CREATED:20251015T150218Z
+DTSTAMP:20251015T150218Z
+LAST-MODIFIED:20251016T034600Z
+DTSTART:20251016T060000Z
+DTEND:20251016T070000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼è·ç¿ç¾½æ²éä¸ä¸æ­å»ºæ¸ é\nä¼è®®æ¶é´ï¼2025/10/16 14:00:00 - 2025/10/16 15:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/tZBUrU1DyQEK\n\n#è
+¾è®¯ä¼è®®ï¼900291010\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:xvOnyqk1qKMoP
 SUMMARY:è®¨è®ºä¸ä¸ PanelSurvey çè¿åº¦
 CREATED:20251226T052631Z
@@ -9537,6 +10524,26 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:xvgXzyz1p5qOE
+SUMMARY:PanelSurveyAI æ¯å¨è®¨è®º
+CREATED:20250908T115428Z
+DTSTAMP:20250908T115428Z
+LAST-MODIFIED:20250908T115428Z
+DTSTART:20250908T120000Z
+DTEND:20250908T130000Z
+LOCATION:
+DESCRIPTION:åå
+å³° éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼PanelSurveyAI æ¯å¨è®¨è®º\nä¼è®®æ¶é´ï¼2025/09/08 20:00:00 - 2025/09/08 21:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/yYPOqDfoQu0f\n\n#è
+¾è®¯ä¼è®®ï¼352664439\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:xvgqrB7qwr25l
 SUMMARY:2025-å®¡è®¡å¯ç 
 CREATED:20250901T024244Z
@@ -9570,6 +10577,25 @@ DESCRIPTION:Tabå¤ªç½ éè¯·æ¨åå è
 ·ç»ä»¶å¼åå¤§èµ\nä¼è®®æ¶é´ï¼2024/11/13 15:00:00 - 2024/11/13 17:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/DKKqRoeRSgwC\n\n#è
 ¾è®¯ä¼è®®ï¼915390988\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xvgqrBmpvJw4J
+SUMMARY:matrixå¯åå¯èªè®­ç»è¥å¼è¥ä»ªå¼
+CREATED:20250901T024246Z
+DTSTAMP:20250901T024246Z
+LAST-MODIFIED:20250901T024246Z
+DTSTART:20250113T020000Z
+DTEND:20250113T040000Z
+LOCATION:
+DESCRIPTION:ç¾å³æ±½æ°´ éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼matrixå¯åå¯èªè®­ç»è¥å¼è¥ä»ªå¼\nä¼è®®æ¶é´ï¼2025/01/13 10:00:00 - 2025/01/13 12:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/U4UykW9V0bMm\n\n#è
+¾è®¯ä¼è®®ï¼720182695\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -9675,6 +10701,25 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:xvgqrm41nRMg9
+SUMMARY:éä½³é¢å®çä¼è®®
+CREATED:20250901T024258Z
+DTSTAMP:20250901T024258Z
+LAST-MODIFIED:20250901T024258Z
+DTSTART:20240106T020000Z
+DTEND:20240106T040000Z
+LOCATION:
+DESCRIPTION:éä½³ éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼éä½³é¢å®çä¼è®®\nä¼è®®æ¶é´ï¼2024/01/06 10:00:00 - 2024/01/06 12:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/6rdNKPmvLkZ5\n\n#è
+¾è®¯ä¼è®®ï¼590972440\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:xvgqrm41nXA8B
 SUMMARY:éä½³é¢å®çä¼è®®
 CREATED:20250901T024258Z
@@ -9709,6 +10754,44 @@ DESCRIPTION:åå
 »ï¼æ¯å¨åäº«\nä¼è®®æ¶é´ï¼2024/06/10 20:00:00 - 2024/06/10 21:00:00\n\nç¹å»é¾æ¥å
 ¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/cL9FRiqMMPKB\n\n#è
 ¾è®¯ä¼è®®ï¼814988598\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xvgqrmv4mBRkn
+SUMMARY:åå¼æ æ³¨å¹³å°-éæ±è®¨è®º
+CREATED:20250901T024252Z
+DTSTAMP:20250901T024252Z
+LAST-MODIFIED:20250901T024252Z
+DTSTART:20240520T050000Z
+DTEND:20240520T053000Z
+LOCATION:
+DESCRIPTION:Alex éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼åå¼æ æ³¨å¹³å°-éæ±è®¨è®º\nä¼è®®æ¶é´ï¼2024/05/20 13:00:00 - 2024/05/20 13:30:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/bSLyF5bQ3Ug8\n\n#è
+¾è®¯ä¼è®®ï¼587824056\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
+¾è®¯ä¼è®®å³å¯åä¸
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xvgqrw6MWZklz
+SUMMARY:å·¥ä½ä¼
+CREATED:20250901T024302Z
+DTSTAMP:20250901T024302Z
+LAST-MODIFIED:20250901T024302Z
+DTSTART:20231010T123000Z
+DTEND:20231010T130000Z
+LOCATION:
+DESCRIPTION:å¤§åå éè¯·æ¨åå è
+¾è®¯ä¼è®®\nä¼è®®ä¸»é¢ï¼å·¥ä½ä¼\nä¼è®®æ¶é´ï¼2023/10/10 20:30:00 - 2023/10/10 21:00:00\n\nç¹å»é¾æ¥å
+¥ä¼ï¼ææ·»å è³ä¼è®®åè¡¨:\nhttps://meeting.tencent.com/dm/c0T16BT3MPH5\n\n#è
+¾è®¯ä¼è®®ï¼378796875\n\nå¤å¶è¯¥ä¿¡æ¯ï¼æå¼ææºè
 ¾è®¯ä¼è®®å³å¯åä¸
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -9753,5 +10836,4 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
-END:VCALENDARMerged 487 events from 487 files.
-
+END:VCALENDAR
