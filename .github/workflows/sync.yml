@@ -8,15 +8,17 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    # The built-in token is sufficient for checkout and committing all.ics.
+    # Explicitly grant the minimum repository permission required by the push.
+    permissions:
+      contents: write
 
     steps:
       - name: 检出代码
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_PAT }}
+        uses: actions/checkout@v5
 
       - name: 设置 Python 环境
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.x'
 
@@ -54,5 +56,5 @@ jobs:
             echo "No changes, skip commit."
           else
             git commit -m "chore: sync meetings $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/koking0/tencent-calendar-sync.git
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
